@@ -62,6 +62,7 @@ spotify_subscribe = "https://open.spotify.com/show/087Wy8vimWknyqtSkXPOyI"
 #soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 #pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 #mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
+media_prefix = "https://storage.googleapis.com/dekozeit-podcasts/"
 rss_subscribe = "https://anchor.fm/s/7cbfc0bc/podcast/rss" #only set this if you don't want to use the built-in feed
 description = "Dein Tauch-Podcast mit Themen rund ums Sporttauchen und technische Tauchen. Wir wollen den Sachen ein bisschen mehr auf den Zahn fuehlen und freuen uns auf eure Kommentare!"
     #itunes_owner_name = "Matt Stratton"
