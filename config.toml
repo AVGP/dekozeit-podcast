@@ -118,7 +118,7 @@ disqusShortname = ""
     [params.authors.Jan]
       name	= "Jan Kirchhof"
       thumbnail = "img/host/jan.jpg"
-      bio = "TBD"
+      bio = "Jan Kirchhof ist Rescue Diver, steht gerade “an der Schwelle” zum TEC Bereich, möchte bald auf einen Rebreather wechseln. Kommt sonst aus dem Rettungsdienst und bildet dort auch aus. Ist mit dem Gleitschirm unterwegs und fotografiert, wenn er nicht gerade unter Wasser ist."
       [params.authors.Jan.social]
 #        github = "mattstratton"
         facebook = "jan.kirchhof1"
@@ -131,7 +131,7 @@ disqusShortname = ""
     [params.authors.Martin]
 			name = "Martin Splitt"
 			thumbnail = "img/host/martin.jpg"
-			bio = "TBD"
+			bio = "Martin Splitt ist frisch gebackener Tauchlehrer, ist TDI Helitrox zertifiziert bis 45 Meter, macht im echten Leben “was mit Computern” und dreht an großen Internet-Schrauben."
 				[params.authors.Martin.social]
         facebook = "martin.splitt2"
         instagram = "the_splitti"
