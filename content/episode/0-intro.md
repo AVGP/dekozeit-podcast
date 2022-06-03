@@ -1,5 +1,5 @@
 +++
-Description = ""
+Description = "In dieser Folge von Dekozeit stellen die Gastgeber den Podcast und sich selbst kurz vor"
 Date = 2022-06-01T10:25:16+02:00
 PublishDate = 2022-06-01T10:25:16+02:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "0-intro.mp3" # the name of the podcast file, after the media prefix.
@@ -41,28 +41,28 @@ Wir sind Tauch-Nerds und haben eine Vorliebe dafür, in Themen tiefer einzusteig
 
 Der Podcast soll Themen rund ums Tauchen “mit Tiefgang” behandeln und eine Plattform für Diskussionen mit einer (hoffentlich wachsenden) Community darstellen. In kleinen Serien und Einzelfolgen möchten wir Themen aufgreifen und besprechen.
 
-Wo wir selber keine Ahnung haben, laden wir gelegentlich Gäste ein… \
- \
-**“Wir haben doch auch keine Ahnung, aber lass’ uns drüber reden.”** \
- \
-Die Folgen werden **monatlich erscheinen und ca. 20 bis 30 Minuten** lang sein. \
+Wo wir selber keine Ahnung haben, laden wir gelegentlich Gäste ein… 
+ 
+**“Wir haben doch auch keine Ahnung, aber lass’ uns drüber reden.”** 
+ 
+Die Folgen werden **monatlich erscheinen und ca. 20 bis 30 Minuten** lang sein. 
 
 
 
 ## Wie wir mit euch diskutieren möchten…
 
-Es gibt einen Instagram-Channel und eine Facebook-Gruppe, welche moderiert werden. Kommentiert auch gerne auf Youtube. \
-Die Diskussionen aus den Plattformen tragen wir bei Bedarf in die nächsten Folgen des Podcast. \
+Es gibt einen Instagram-Channel und eine Facebook-Gruppe, welche moderiert werden. Kommentiert auch gerne auf Youtube. 
+Die Diskussionen aus den Plattformen tragen wir bei Bedarf in die nächsten Folgen des Podcast. 
 
 
-Shownotes zum Channel mit weiterführenden Informationen, Bildern und Quellen gibt es auf dekozeit.divingfor.fun \
- \
+Shownotes zum Channel mit weiterführenden Informationen, Bildern und Quellen gibt es auf dekozeit.divingfor.fun 
+ 
 Dekozeit ist ein Hobbyprojekt, weshalb eine Antwort manchmal etwas dauern kann. ;-) 
 
 
 ## Disclaimer
 
-Kein Prinzip trifft auf alle Betroffenen und alle Fälle zu. Auch wenn wir mit Quellen und Informationen sorgsam umgehen, liegt es am Zuhörer, diese mit Köpfchen anzuwenden. Geht mit den Informationen sorgsam um und vergleicht mit euren eigenen Quellen. Keine theoretische Diskussion kann praktisches Training ersetzen. Findet Buddies und Tauchlehrer, mit denen Ihr gemeinsam lernen könnt. \
+Kein Prinzip trifft auf alle Betroffenen und alle Fälle zu. Auch wenn wir mit Quellen und Informationen sorgsam umgehen, liegt es am Zuhörer, diese mit Köpfchen anzuwenden. Geht mit den Informationen sorgsam um und vergleicht mit euren eigenen Quellen. Keine theoretische Diskussion kann praktisches Training ersetzen. Findet Buddies und Tauchlehrer, mit denen Ihr gemeinsam lernen könnt. 
 Beachtet die Grenzen eurer Brevetierung und lest eure Versicherungsbedingungen.
 
 
@@ -73,7 +73,7 @@ Es gibt einen Patreon-Kanal, auf dem ihr uns sponsern könnt. Die Einnahmen werd
 
 ## Unsere Meinung ist nicht käuflich
 
-Wir legen Sponsoring offen - trotzdem hört ihr eine ehrliche Meinung. Ansonsten nenne wir Produkte aufgrund unserer eigenen Erfahrungen. Überprüft kritisch, ob für euch die gleichen Kriterien relevant sind.  \
+Wir legen Sponsoring offen - trotzdem hört ihr eine ehrliche Meinung. Ansonsten nenne wir Produkte aufgrund unserer eigenen Erfahrungen. Überprüft kritisch, ob für euch die gleichen Kriterien relevant sind.  
 Wir können eben nur über Produkte reden, die wir selber kennen..
 
 ## Vorschau
