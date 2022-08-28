@@ -43,7 +43,7 @@ buildFuture = true
 [params]
 mainSections = ["episode"]
 favicon = "/img/logo.png"
-episode_number_style  = "brackets"
+#episode_number_style  = "brackets"
 site_theme = "blue"
 site_layout = "grid"
 #site_layout = "row"
@@ -122,9 +122,9 @@ description = "Dein Tauch-Podcast mit Themen rund ums Sporttauchen und technisch
 		thumbnail = "img/host/martin.jpg"
 		bio = "Martin Splitt ist frisch gebackener Tauchlehrer, ist TDI Helitrox zertifiziert bis 45 Meter, macht im echten Leben “was mit Computern” und dreht an großen Internet-Schrauben."
 			[params.authors.Martin.social]
-       facebook = "martin.splitt2"
-       instagram = "the_splitti"
-       youtube = "divingforfun"
+        facebook = "martin.splitt2"
+        instagram = "the_splitti"
+        youtube = "divingforfun"
 
   [params.links]
 #      [params.links.ado]
