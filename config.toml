@@ -82,7 +82,7 @@ description = "Dein Tauch-Podcast mit Themen rund ums Sporttauchen und technisch
   [params.podlove] # https://subscribe-button.podlove.org
     subscribe_title = "Dekozeit"              # fallback: site title from above
     subscribe_subtitle = "Dein Taucher-Podcast"           # fallback: ""
-    subscribe_description = "Dein Tauch-Podcast mit Themen rund ums Sporttauchen und technische Tauchen. Wir wollen den Sachen ein bisschen mehr auf den Zahn fuehlen und freuen uns auf eure Kommentare!"        # fallback: ""
+    subscribe_description = "Dein Tauch-Podcast mit Themen rund ums Sporttauchen und technische Tauchen. Wir wollen den Sachen ein bisschen mehr auf den Zahn fühlen und freuen uns auf eure Kommentare!"        # fallback: ""
     subscribe_cover = "img/logo.png"  # fallback: ""
     subscribe_color = "#469CD1"       # fallback: ""
     subscribe_size = "medium"         # options: small, medium, big
@@ -113,14 +113,14 @@ description = "Dein Tauch-Podcast mit Themen rund ums Sporttauchen und technisch
     [params.authors.Jan]
       name	= "Jan Kirchhof"
       thumbnail = "img/host/jan.jpg"
-      bio = "Jan Kirchhof ist Rescue Diver, steht gerade “an der Schwelle” zum TEC Bereich, möchte bald auf einen Rebreather wechseln. Kommt sonst aus dem Rettungsdienst und bildet dort auch aus. Ist mit dem Gleitschirm unterwegs und fotografiert, wenn er nicht gerade unter Wasser ist."
+      bio = "Jan Kirchhof ist Rescue Diver, steht gerade “an der Schwelle” zum TEC Bereich, hat auf einen Rebreather wechseln. Kommt sonst aus dem Rettungsdienst und bildet dort auch aus. Ist mit dem Gleitschirm unterwegs und fotografiert, wenn er nicht gerade unter Wasser ist."
       [params.authors.Jan.social]
         facebook = "jan.kirchhof1"
         instagram = "kirchhofphoto"
   [params.authors.Martin]
 		name = "Martin Splitt"
 		thumbnail = "img/host/martin.jpg"
-		bio = "Martin Splitt ist frisch gebackener Tauchlehrer, ist TDI Helitrox zertifiziert bis 45 Meter, macht im echten Leben “was mit Computern” und dreht an großen Internet-Schrauben."
+		bio = "Martin Splitt ist PADI Tauchlehrer, TDI Helitrox zertifiziert bis 45 Meter, macht im echten Leben “was mit Computern” und dreht an großen Internet-Schrauben."
 			[params.authors.Martin.social]
         facebook = "martin.splitt2"
         instagram = "the_splitti"
