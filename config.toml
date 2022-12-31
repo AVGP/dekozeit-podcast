@@ -130,3 +130,6 @@ description = "Dein Tauch-Podcast mit Themen rund ums Sporttauchen und technisch
 #      [params.links.ado]
 #        name = "Arrested DevOps"
 #        url = "https://www.arresteddevops.com"
+
+[markup.goldmark.renderer]
+unsafe = true
