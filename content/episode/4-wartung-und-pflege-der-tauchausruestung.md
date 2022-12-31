@@ -11,7 +11,7 @@ episode_image = "img/episode/4/cover.jpg"
 episode = "4"
 title = "Wartung und Pflege der Tauchausrüstung"
 #subtitle = ""
-images = ["img/episode/4/cover.jpg"]
+images = ["img/episode/4/cover.jpg", "img/episode/4/1.jpg", "img/episode/4/2.jpg", "img/episode/4/3.jpg", "img/episode/4/4.jpg", "img/episode/4/5.jpg", "img/episode/4/6.jpg", "img/episode/4/7.jpg", "img/episode/4/8.jpg", "img/episode/4/9.jpg", "img/episode/4/10.jpg", "img/episode/4/11.jpg", "img/episode/4/12.jpg", "img/episode/4/13.jpg", "img/episode/4/14.jpg", "img/episode/4/15.jpg", "img/episode/4/16.jpg", "img/episode/4/17.jpg"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 #aliases = ["/4"]
 #youtube = ""
@@ -23,6 +23,13 @@ explicit = "no" # values are "yes" or "no"
 #series = []
 #tags = []
 +++
+
+<style>
+img {
+    max-width: 80%;
+    max-height: 400px;
+}
+</style>
 
 **_Disclaimer: Die in diesem Podcast getätigten Aussagen spiegeln lediglich die Meinungen der Produzenten wieder. Obwohl wir die Aussagen im Podcast reflektiert und nach Möglichkeit auf der Basis wissenschaftlicher und technischer Standards treffen, bleibt die verantwortungsbewusste Nutzung dieser Informationen dem Hörer überlassen! Taucht nicht über eure eigenen Grenzen und der eurer Buddies! Haltet euch an eure Zertifizierung und besucht praktische Trainings und Kurse, um eure taucherischen Fähigkeiten zu verbessern._**
 
