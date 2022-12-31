@@ -1,5 +1,5 @@
 +++
-Description = ""
+Description = "Das Wetter draußen ist ekelhaft kalt, am See erfriert man trotz Trockentauchanzug fast. Da hilft nur eins: Ab ins Warme! Aber wohin? Und wo Buchen? Auf was muss man sonst noch achten?"
 Date = 2022-12-01T09:00:00+02:00
 podcast_file = "7-tauchurlaub.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "27:58"
