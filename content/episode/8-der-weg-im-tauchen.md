@@ -22,7 +22,6 @@ explicit = "no" # values are "yes" or "no"
 #categories = []
 #series = []
 #tags = []
-upcoming = true
 +++
 
 <style>
