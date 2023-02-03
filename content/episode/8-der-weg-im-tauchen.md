@@ -1,5 +1,5 @@
 +++
-Description = ""
+Description = "Bei der Tauchausbildung stellt sich spätestens nach dem Rescue-Diver die Frage: Wie geht es weiter? Mehr Specialties? Tec? Pro? In dieser Folge beleuchten wir die unterschiedlichen Wege im Tauchen und ihre verschiedenen Eigenschaften."
 Date = 2023-01-01T09:00:00+02:00
 podcast_file = "8-der-weg-im-tauchen.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "53:38"
