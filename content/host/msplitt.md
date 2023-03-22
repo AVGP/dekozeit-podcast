@@ -9,4 +9,4 @@ Instagram = "the_splitti"
 YouTube = "divingforfun"
 +++
 
-Martin Splitt ist frisch gebackener Tauchlehrer, ist TDI Helitrox zertifiziert bis 45 Meter, macht im echten Leben “was mit Computern” und dreht an großen Internet-Schrauben.
+Martin Splitt ist PADI Tauchlehrer (Master Scuba Diver Trainer), taucht Sidemount und mag technisches Tauchen, macht im echten Leben “was mit Computern” und dreht an großen Internet-Schrauben.
