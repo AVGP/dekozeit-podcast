@@ -1,5 +1,5 @@
 +++
-Description = "Die meisten von uns haben im Nitrox-Kurs gelernt, dass wir unser Nitrox analysieren müssen. Im Regelfall nimmt man dazu einfach einen "Oxyspy" und misst nach. Aber wie relevant sind die Messergebnisse wirklich? Und wie kommen Ungenauigkeiten zu Stande? Martin und Jan gehen dieser und einigen anderen Fragen in der aktuellen Folge Dekozeit nach…"
+Description = "Die meisten von uns haben im Nitrox-Kurs gelernt, dass wir unser Nitrox analysieren müssen. Im Regelfall nimmt man dazu einfach einen Oxyspy und misst nach. Aber wie relevant sind die Messergebnisse wirklich? Und wie kommen Ungenauigkeiten zu Stande? Martin und Jan gehen dieser und einigen anderen Fragen in der aktuellen Folge Dekozeit nach..."
 Date = 2023-04-02T09:00:00+02:00
 podcast_file = "11-gasanalyse-statt-voodoo-gas.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "35:27"
