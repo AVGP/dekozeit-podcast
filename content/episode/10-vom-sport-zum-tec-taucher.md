@@ -1,5 +1,5 @@
 +++
-Description = "Beim Tauchen wird ja eigentlich fast immer mindestens zu zweit getaucht, Solo-Tauchen hingegen wird von Sakrileg bis Gefährlich angesehen. Aber stimmt das immer? Und ist self-reliant das Gleiche, wie Solo-Tauchen? Darüber und mehr unterhalten wir uns mit unserem Gast Simone Ueberwasser."
+Description = "Jan und Martin haben schon häufiger beobachtet, dass man mit einer technisch angehauchten Ausrüstung am Tauchplatz seltsam von der Seite angeschaut wird. Es wird automatisch vorausgesetzt, dass man zwingend tief und lang unterwegs ist. Auch Sophie aus der Community hat sich gefragt, wo jetzt eigentlich das “Recreational Diving” oder besser das Sporttauchen aufhört und das technische Tauchen anfängt. Grund genug, der Sache auf den Grund zu gehen..."
 Date = 2023-03-02T09:00:00+02:00
 podcast_file = "10-sport-zum-tec-taucher.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "43:10"
