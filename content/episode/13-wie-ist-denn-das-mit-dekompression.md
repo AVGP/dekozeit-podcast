@@ -1,5 +1,5 @@
 +++
-Description = "Wir haben alle schon von "No Deco Dives" und "No Deco Limits" gehört aber was passiert, wenn wir länger oder tiefer tauchen wollen? In der aktuellen Folge reden wir über die Geschichte der Dekompressionsforschung, wieso jeder Tauchgang ein Deco-Tauchgang ist und was es mit den verschiedenen Modellen auf sich hat, die wir in den kommenden Folgen näher anschauen werden."
+Description = "Wir haben alle schon von No Deco Dives und No Deco Limits gehört aber was passiert, wenn wir länger oder tiefer tauchen wollen? In der aktuellen Folge reden wir über die Geschichte der Dekompressionsforschung, wieso jeder Tauchgang ein Deco-Tauchgang ist und was es mit den verschiedenen Modellen auf sich hat, die wir in den kommenden Folgen näher anschauen werden."
 Date = 2023-06-02T09:00:00+02:00
 podcast_file = "13-dekompression-im-ueberblick.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "37:37"
