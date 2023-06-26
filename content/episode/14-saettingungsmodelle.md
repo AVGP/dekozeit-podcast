@@ -1,7 +1,7 @@
 +++
 Description = "Was ist das Ziel von Sättigungsmodellen? Das Ziel eines Sättigungsmodells ist es, die Menge der Inertgassättigung und -übersättigung im Gewebe zu berechnen und somit die Menge des im Gewebe vorhandenen Gases in einem sicheren Ausmaß zu halten. Hierdurch soll die Entstehung von Gasblasen im Körper verhindert werden. Diese Modelle werden bis heute als Neo-Haldanish bezeichnet. Zu den gängigsten Modellen gehört der Bühlmann-Algorithmus. Wie funktionieren die Modelle und wo liegen die Grenzen?"
 Date = 2023-06-19T09:00:00+02:00
-podcast_file = "14-saettingungsmodelle.mp3" # the name of the podcast file, after the media prefix.
+podcast_file = "14-saettigungsmodelle.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "30:20"
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "img/episode/14/cover.jpg"
