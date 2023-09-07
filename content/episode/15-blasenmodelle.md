@@ -1,5 +1,5 @@
 +++
-Description = "Was ist das Ziel von Sättigungsmodellen? Das Ziel eines Sättigungsmodells ist es, die Menge der Inertgassättigung und -übersättigung im Gewebe zu berechnen und somit die Menge des im Gewebe vorhandenen Gases in einem sicheren Ausmaß zu halten. Hierdurch soll die Entstehung von Gasblasen im Körper verhindert werden. Diese Modelle werden bis heute als Neo-Haldanish bezeichnet. Zu den gängigsten Modellen gehört der Bühlmann-Algorithmus. Wie funktionieren die Modelle und wo liegen die Grenzen?"
+Description = "Nachdem wir in der letzten Folge die Sättigungsmodelle näher betrachtet haben, ist es in dieser Folge Zeit sich den Blasenmodellen zu widmen. Von Pyle- und Deep Stops über RGBM und VPM geht die Reise zur Frage: Wie tief sollte Die Dekompression beginnen und was passiert, wenn wir tiefer anfangen Stops zu machen - und ist das Blasenmodell jetzt der Weisheit letzter Schluss?"
 Date = 2023-07-03T09:00:00+02:00
 podcast_file = "15-blasenmodelle.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "37:48"
