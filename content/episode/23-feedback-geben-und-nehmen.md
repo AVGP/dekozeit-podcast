@@ -1,5 +1,5 @@
 +++
-Description = ""
+Description = "Die Situation ist einfach und bestimmt vielen von uns bekannt: Ein eigentlich gut gemeintes Feedback eskaliert und ist dann auch nicht mehr annehmbar. Das bringt uns zur Frage: Wie kann man Feedback besser und konstruktiv gestalten?"
 Date = 2024-01-01T09:00:00+02:00
 podcast_file = "23-feedback.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "61:55"
