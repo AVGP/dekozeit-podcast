@@ -1,5 +1,5 @@
 +++
-Description = ""
+Description = "Blei ist die frustrierendste Anschaffung im Tauchen. Es ist sauteuer, schwer und unhandlich. Und dann macht es auch noch viel Arbeit. Wenn man nicht genug hat, dann kommt man nicht runter, muss zurück zum Auto laufen und aufstocken. Oder man hat sowieso nicht genug Blei da und muss den Tauchgang sogar auslassen. Sobald man aber zuviel Blei hat, hört man die Tekkies schon schreien: “Du bist überbleit!” Wo liegt jetzt in dieser schwerwiegenden Geschichte die Wahrheit?"
 Date = 2023-12-01T09:00:00+02:00
 podcast_file = "21-blei-und-bleiverteilung.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "48:30"
