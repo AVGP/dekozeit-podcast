@@ -1,7 +1,7 @@
 +++
 Description = "Das Jahr verging wie im Flug und wir sitzen unterm Weihnachtsbaum. Zeit, einen Blick zurück zu werfen und das Jahr Revue passieren zu lassen. Wir wünschen frohe Festtage und eine gute Zeit!"
 Date = 2023-12-24T09:00:00+02:00
-podcast_file = "23-der-jahresrueckblick.mp3" # the name of the podcast file, after the media prefix.
+podcast_file = "22-der-jahresrueckblick.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "34:48"
 episode_image = "img/episode/22/cover.jpg"
 episode = "22"
